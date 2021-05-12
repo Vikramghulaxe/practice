@@ -1,2 +1,2 @@
 # practice
-For training
+For training purpose
